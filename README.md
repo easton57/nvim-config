@@ -6,17 +6,27 @@ The idea of not using a mouse for coding intrigues me since it's something I've 
 
 <H2>Keymaps</H2>
 
-Fugitive: leader + gs
-
+Fugitive: 
+<ul>
+  <li>leader + gs</li>
+</ul>
+  
 Harpoon Stuff:
-Add file: leader + a
-Quick Menu: Ctrl + e
-Nav: Ctrl + h or t or n or s
+<ul>
+  <li>Add file: leader + a</li>
+  <li>Quick Menu: Ctrl + e</li>
+  <li>Nav: Ctrl + h or t or n or s</li>
+</ul>
 
 Telescope:
-Find files: leader + pf
-Git Files?: Ctrl p
-Search: leader + ps
+<ul>
+  <li>Find files: leader + pf</li>
+  <li>Git Files?: Ctrl p</li>
+  <li>Search: leader + ps</li>
+</ul>
 
 Undo Tree:
-leader + u
+<ul>
+  <li>leader + u</li>
+</ul>
+
